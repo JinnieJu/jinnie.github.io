@@ -111,7 +111,7 @@ author:
   email            :
   links:
     - label: "South Korea"
-      icon: "fas fa-fw fa-location-dot"
+      icon: "fas fa-fw fa-map-marker"
       url: "https://www.google.co.kr/maps/search/kyungpook+national+university/data=!3m1!4b1?entry=ttu"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
