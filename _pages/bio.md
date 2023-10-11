@@ -12,7 +12,7 @@ author_profile: true
 * **Aug, 2023 M.S. in Astronomy and Atmospheric Sciences**, Kyungpook Nat'l University, South Korea   
   *Thesis title: The cause of seasonality in interdecadal variability of tropical cyclone genesis frequency and large-sacle circulation over the western North Pacific*
 
-* **Feb, 2021 B.S. in Earth Science Education**, Kyungpook National University, South Korea   
+* **Feb, 2021 B.S. in Earth Science Education**, Kyungpook Nat'l University, South Korea   
 
 <br>
 
