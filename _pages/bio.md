@@ -23,7 +23,7 @@ author_profile: true
 
 ## Skills
 
-**Computing Languages** Python, NCL
+* **Computing Languages** Python, NCL
 
-**Numerical Modelling** MPAS, Linear Baroclinic Model
+* **Numerical Modelling** MPAS, Linear Baroclinic Model
 
