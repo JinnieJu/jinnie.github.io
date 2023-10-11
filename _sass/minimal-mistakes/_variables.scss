@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 18 !default;
+$doc-font-size: 16 !default;
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
@@ -34,22 +34,22 @@ $header-font-family: $sans-serif !default;
 $caption-font-family: $serif !default;
 
 /* type scale */
-$type-size-1: 1.8888em !default; // ~39.056px
-$type-size-2: 1.5555em !default; // ~28px
-$type-size-3: 1.3333em !default; // ~24px
-$type-size-4: 1.1111em !default; // ~20px
-$type-size-5: 1em !default; // ~18px
-$type-size-6: 0.8888em !default; // ~16px
-$type-size-7: 0.6666em !default; // ~12px
-$type-size-8: 0.5555em !default; // ~10px
+$type-size-1: 2em !default; // ~39.056px
+$type-size-2: 1.75em !default; // ~28px
+$type-size-3: 1.5em !default; // ~24px
+$type-size-4: 1.24em !default; // ~20px
+$type-size-5: 1.125em !default; // ~18px
+$type-size-6: 1em !default; // ~16px
+$type-size-7: 0.875em !default; // ~14px
+$type-size-8: 0.75em !default; // ~12px
 
 /* headline scale */
-$h-size-1: 1.3333em !default; // ~25.008px
-$h-size-2: 1.1111em !default; // ~20px
-$h-size-3: 1em !default; // ~18px
-$h-size-4: 0.94444em !default; // ~17px
-$h-size-5: 0.91666em !default; // ~16.5px
-$h-size-6: 0.8888em !default; // ~16px
+$h-size-1: 1.5em !default; // ~24px
+$h-size-2: 1.24em !default; // ~20px
+$h-size-3: 1.125em !default; // ~18px
+$h-size-4: 1.0625em !default; // ~17px
+$h-size-5: 1.03125em !default; // ~16.5px
+$h-size-6: 1em !default; // ~16px
 
 /*
    Colors
@@ -157,7 +157,7 @@ $max-width: $x-large !default;
 
 $right-sidebar-width-narrow: 200px !default;
 $right-sidebar-width: 300px !default;
-$right-sidebar-width-wide: 200px !default;
+$right-sidebar-width-wide: 180px !default;
 
 /*
    Other
