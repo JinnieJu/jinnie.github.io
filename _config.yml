@@ -110,13 +110,13 @@ author:
   # location         : "Somewhere"
   email            :
   links:
-    - label: "South Korea"
+    - label: "KNU, South Korea"
       icon: "fas fa-fw fa-map-marker-alt"
       url: "https://www.google.com/maps/search/kyungpook+national+university/data=!3m1!4b1?hl=en&entry=ttu"
-    - label: "Email"
+    - label: "Email to me"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:jhju6455@gmail.com"
-    - label: "Lab"
+    - label: "Mesoscale Weather Extremes Laboratory"
       icon: "fas fa-fw fa-link"
       url: "https://sites.google.com/view/dsrpark/home-1?authuser=0"
     - label: "Twitter"
