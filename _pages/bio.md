@@ -9,7 +9,7 @@ author_profile: true
 
 ## Education
 
-**Aug, 2023 M.S. in Astronomy and Atmospheric Sciences**, Kyungpook National University, South Korea
+**Aug, 2023 M.S. in Astronomy and Atmospheric Sciences**, Kyungpook National University, South Korea<br>
 *Thesis title: The cause of seasonality in interdecadal variability of tropical cyclone genesis frequency and large-sacle circulation over the western North Pacific*
 
 **Feb, 2021 B.S. in Earth Science Education**, Kyungpook National University, South Korea
