@@ -9,7 +9,7 @@ author_profile: true
 
 ## Publication
 
-* **Ju, J.**, D. R. Park, D. Kim, M. Chang, C. Park, J. Kug, and D. Youn, 2025: Mechanisms behind Seasonal Differences in the Recent Interdecadal Change in Tropical Cyclone Genesis Frequency over the Western North Pacific. *J. Climate*, **38**, 3787–3800, [https://doi.org/10.1175/JCLI-D-24-0604.1.](https://journals.ametsoc.org/view/journals/clim/38/15/JCLI-D-24-0604.1.xml)
+* **Ju, J.**, D. R. Park, D. Kim, M. Chang, C. Park, J. Kug, and D. Youn, 2025: <a href="https://journals.ametsoc.org/view/journals/clim/38/15/JCLI-D-24-0604.1.xml" target="_blank" rel="noopener noreferrer">Mechanisms behind Seasonal Differences in the Recent Interdecadal Change in Tropical Cyclone Genesis Frequency over the Western North Pacific.</a> *J. Climate*, 38, 3787–3800, https://doi.org/10.1175/JCLI-D-24-0604.1.
 
 <br>
 
