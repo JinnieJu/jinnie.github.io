@@ -9,7 +9,18 @@ author_profile: true
 
 ## Publication
 
-* **Ju, J.**, D. R. Park, D. Kim, M. Chang, C. Park, J. Kug, and D. Youn, 2025: <a href="https://journals.ametsoc.org/view/journals/clim/38/15/JCLI-D-24-0604.1.xml" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">Mechanisms behind Seasonal Differences in the Recent Interdecadal Change in Tropical Cyclone Genesis Frequency over the Western North Pacific.</a> *J. Climate*, 38, 3787–3800, https://doi.org/10.1175/JCLI-D-24-0604.1.
+* **Ju, J.**, D. R. Park, D. Kim, M. Chang, C. Park, J. Kug, and D. Youn, 2025:
+  <a href="https://journals.ametsoc.org/view/journals/clim/38/15/JCLI-D-24-0604.1.xml"
+  target="_blank" rel="noopener noreferrer"
+  style="color: inherit; text-decoration: none;"
+  onmouseover="this.style.textDecoration='underline'; this.style.textDecorationStyle='dotted';"
+  onmouseout="this.style.textDecoration='none';" >Mechanisms behind Seasonal Differences in the Recent Interdecadal Change in Tropical Cyclone Genesis Frequency over the Western North Pacific.</a>
+  *J. Climate*, 38, 3787–3800,
+  <a href="https://journals.ametsoc.org/view/journals/clim/38/15/JCLI-D-24-0604.1.xml"
+  target="_blank" rel="noopener noreferrer"
+  style="color: inherit; text-decoration: none;"
+  onmouseover="this.style.textDecoration='underline'; this.style.textDecorationStyle='dotted';"
+  onmouseout="this.style.textDecoration='none';">https://doi.org/10.1175/JCLI-D-24-0604.1.</a>
 
 <br>
 
